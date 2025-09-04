@@ -38,13 +38,13 @@
 ## 🔭 About me
 - Full name: **nickvujc**
 - I build cool things and watch anime between commits.
-- Contact: [Telegram](https://t.me/your_telegram) • [Twitter](https://twitter.com/your_twitter)
+- Contact: [Telegram](https://t.me/nickvujc) • [Twitter](https://x.com/nickvujc)
 
 ---
 
 ## 🔥 Popular Projects
-- [Project-A](https://github.com/nickvujc/project-a) — deskripsi singkat
-- [Project-B](https://github.com/nickvujc/project-b) — deskripsi singkat
+- [Project-A](https://github.com/nickvujc/project-a) — CS_CAPITAL
+- [Project-B](https://github.com/nickvujc/project-b) — WEB3
 
 ---
 
